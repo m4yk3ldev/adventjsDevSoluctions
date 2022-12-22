@@ -1,4 +1,7 @@
+ // https://adventjs.dev/es/challenges/2022/1
+ 
 const gifts = ["cat", "game", "socks"];
+
 
 function wrapping(gifts) {
   const giftsReturn = gifts.map((item) => {
