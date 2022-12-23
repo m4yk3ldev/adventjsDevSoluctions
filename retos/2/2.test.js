@@ -1,6 +1,6 @@
 const countHours = require('./2.js')
 
-test('Test #01 - Returns an Array', () => {
+test('Test #01 - Returns an Number', () => {
   expect(typeof countHours(2022, ['04/12'])).toStrictEqual('number')
 })
 

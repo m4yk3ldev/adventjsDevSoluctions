@@ -1,6 +1,6 @@
 const distributeGifts = require('./3.js')
 
-test('Test #01 - Returns an Array', () => {
+test('Test #01 - Returns an Number', () => {
   expect(typeof distributeGifts([], [])).toStrictEqual('number')
 })
 
