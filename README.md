@@ -13,6 +13,7 @@
 | <img src="https://adventjs.dev/challenges-2022/3.svg" width="50" height="50" /> | [3- Cuantas cajas de regalos puede llevar Papa Noel](https://adventjs.dev/challenges/2022/3) |     F      | [Ver](https://github.com/m4yk3ldev/adventjsDevSoluctions/blob/main/retos/3/3.js) |  164   |
 | <img src="https://adventjs.dev/challenges-2022/4.svg" width="50" height="50" /> |       [4- Una caja dentro de otra caja y otra](https://adventjs.dev/challenges/2022/4)       |     M      | [Ver](https://github.com/m4yk3ldev/adventjsDevSoluctions/blob/main/retos/4/4.js) |  156   |
 | <img src="https://adventjs.dev/challenges-2022/5.svg" width="50" height="50" /> |           [5- Otimizando viajes de Santa](https://adventjs.dev/challenges/2022/5)            |     D      | [Ver](https://github.com/m4yk3ldev/adventjsDevSoluctions/blob/main/retos/5/5.js) |  104   |
+| <img src="https://adventjs.dev/challenges-2022/6.svg" width="50" height="50" /> |            [6- Creando adornos navideños](https://adventjs.dev/challenges/2022/6)            |     M      | [Ver](https://github.com/m4yk3ldev/adventjsDevSoluctions/blob/main/retos/6/6.js) |  104   |
 
 **Dificultad**: (F) Facil (M) Media (D) Dificil (MD) Muy Dificil
 
