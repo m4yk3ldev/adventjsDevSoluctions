@@ -4,11 +4,12 @@
   "description": "Repositorio donde estoy subiendo los retos de [Advent JS](https://adventjs.dev/)",
   "main": "index.js",
   "scripts": {
+    "prepare": "husky install",
+    "lint": "npx pretty-quick --staged",
     "test": "jest",
     "test:1": "jest -i retos/1/1.test.js",
     "test:2": "jest -i retos/2/2.test.js",
-    "prepare": "husky install",
-    "lint": "npx pretty-quick --staged"
+    "test:3": "jest -i retos/3/3.test.js"
   },
   "keywords": [],
   "author": "Maykel",
