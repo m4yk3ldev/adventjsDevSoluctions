@@ -1,5 +1,6 @@
 language: node_js
 install:
-    - npm install
+    - npm install --global pnpm
+    - pnpm install
 script:
-    - ember test --server
+    - pnpm test
