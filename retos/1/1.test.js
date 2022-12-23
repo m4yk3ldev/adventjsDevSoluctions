@@ -1,4 +1,4 @@
-const wrapping = require("./reto1.js");
+const wrapping = require("./1.js");
 
 test("Test #01 - Returns an Array", () => {
   expect(Array.isArray(wrapping(["cat", "game", "socks"]))).toBe(true);

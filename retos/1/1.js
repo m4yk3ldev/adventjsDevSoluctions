@@ -1,4 +1,7 @@
 
+/**
+ * @param {string[]} gifts
+ */
 function wrapping(gifts) {
   const giftsReturn = gifts.map((item) => {
    const asterisk = "*".repeat(item.length + 2);

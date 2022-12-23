@@ -5,9 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "test:1": "jest -i retos/1/reto1.test.js",
-    "test:2": "jest -i retos/2/reto2.test.js",
-    "test:3": "jest -i retos/3/reto3.test.js"
+    "test:1": "jest -i retos/1/1.test.js"
   },
   "keywords": [],
   "author": "",
