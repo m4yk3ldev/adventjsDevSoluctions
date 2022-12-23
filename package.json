@@ -10,7 +10,8 @@
     "test:1": "jest -i retos/1/1.test.js",
     "test:2": "jest -i retos/2/2.test.js",
     "test:3": "jest -i retos/3/3.test.js",
-    "test:4": "jest -i retos/4/4.test.js"
+    "test:4": "jest -i retos/4/4.test.js",
+    "test:5": "jest -i retos/5/5.test.js"
   },
   "keywords": [],
   "author": "Maykel",

@@ -12,6 +12,7 @@
 | <img src="https://adventjs.dev/challenges-2022/2.svg" width="50" height="50" /> |         [2- Nadie quiere hacer horas extra](https://adventjs.dev/challenges/2022/2)          |     F      | [Ver](https://github.com/m4yk3ldev/adventjsDevSoluctions/blob/main/retos/2/2.js) |  111   |
 | <img src="https://adventjs.dev/challenges-2022/3.svg" width="50" height="50" /> | [3- Cuantas cajas de regalos puede llevar Papa Noel](https://adventjs.dev/challenges/2022/3) |     F      | [Ver](https://github.com/m4yk3ldev/adventjsDevSoluctions/blob/main/retos/3/3.js) |  161   |
 | <img src="https://adventjs.dev/challenges-2022/4.svg" width="50" height="50" /> |       [4- Una caja dentro de otra caja y otra](https://adventjs.dev/challenges/2022/4)       |     M      | [Ver](https://github.com/m4yk3ldev/adventjsDevSoluctions/blob/main/retos/4/4.js) |   56   |
+| <img src="https://adventjs.dev/challenges-2022/5.svg" width="50" height="50" /> |           [5- Otimizando viajes de Santa](https://adventjs.dev/challenges/2022/5)            |     D      | [Ver](https://github.com/m4yk3ldev/adventjsDevSoluctions/blob/main/retos/5/5.js) |   0    |
 
 **Dificultad**: (F) Facil (M) Media (D) Dificil (MD) Muy Dificil
 
