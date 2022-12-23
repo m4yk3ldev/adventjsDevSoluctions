@@ -7,7 +7,8 @@
     "test": "jest",
     "test:1": "jest -i retos/1/1.test.js",
     "test:2": "jest -i retos/2/2.test.js",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "lint": "npx pretty-quick --staged"
   },
   "keywords": [],
   "author": "Maykel",
