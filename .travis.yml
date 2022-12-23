@@ -1,6 +1,8 @@
 language: node_js
+node_js:
+  - lts
 install:
     - npm install --global pnpm
-    - pnpm install
 script:
+    - pnpm install
     - pnpm test
